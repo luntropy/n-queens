@@ -5,12 +5,13 @@ The objective of the program is to find solution to the N Queens problem.
 [N Queens Problem Wikipedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 
 ## Game rules
-- Place N queens on N by N board without them having a conflict with one another.
+Place N queens on N by N board without them having a conflict with one another.
 
 ### Goal state example
-![Goal]()
+![Goal](https://github.com/luntropy/n-queens/blob/main/images/goal-state.png)
 
 ## About the program
+The program uses the algorithm **MinConflicts** to find the correct solution. The goal is to find a solution of the problem with 10,000 queens under 1 second.
 
 - There is no solution for the boards: 2x2 and 3x3.
 
