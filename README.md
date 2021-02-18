@@ -1,5 +1,5 @@
 # N Queens
-## About the program
+## Purpose
 The objective of the program is to find solution to the N Queens problem.
 
 [N Queens Problem Wikipedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
