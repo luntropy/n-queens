@@ -24,6 +24,8 @@ The program uses the algorithm **MinConflicts** to find the correct solution. Th
 - If the number of the queens is 20 or less, the board with the solution will be displayed.
 - If the number of the queens is more than 20, only the elapsed time will be displayed.
 
+### Output with 8 queens
 ![Solution-8-queens](https://github.com/luntropy/n-queens/blob/main/images/solution-example-8-queens.png)
 
+### Output with 10,000 queens
 ![Solution-10000-queens](https://github.com/luntropy/n-queens/blob/main/images/solution-example-10000-queens.png)
