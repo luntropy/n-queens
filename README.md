@@ -4,7 +4,7 @@ The objective of the program is to find solution to the N Queens problem.
 
 [N Queens Problem Wikipedia](https://en.wikipedia.org/wiki/Eight_queens_puzzle)
 
-## Game rules
+## Rules
 Place N queens on N by N board without them having a conflict with one another.
 
 ### Goal state example
